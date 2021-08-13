@@ -1,8 +1,8 @@
- <img align="right" alt="nat-yoda" src="https://discord.com/channels/@me/758065344580419676/875864934565707786">
+ <img height="150em" align="right" alt="nat-yoda" src="https://user-images.githubusercontent.com/66394109/129423748-a1f10243-95f8-4350-acfb-a9e85cd34b64.gif">
 
 ### Hi there, I'm Natalia Santis 👩‍💻
 
-🔭 **Currently work:** Chief of Experience Officer [Turbi](https://www.turbi.com.br/);
+🔭 **Currently work:** Chief of Experience Officer at [Turbi](https://www.turbi.com.br/);
 
 :man_student: **Studying:** Database at [PUC](https://www.pucminas.br/);
 
@@ -13,6 +13,6 @@
 ---
  <div>
   <a href="https://github.com/natsantis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natsantis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsantis&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=natsantis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsantis&layout=compact&langs_count=7&theme=onedark"/>
 </div>
